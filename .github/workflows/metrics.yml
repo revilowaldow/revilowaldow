@@ -37,5 +37,5 @@ jobs:
           plugin_habits_from: 1000
           plugin_reactions: yes
           plugin_reactions_details: percentage
-	  plugin_calendar: yes
+          plugin_calendar: yes
           plugin_calendar_limit: 0
