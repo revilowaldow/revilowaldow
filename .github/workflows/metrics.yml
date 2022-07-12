@@ -34,3 +34,4 @@ jobs:
           plugin_lines: yes
           plugin_followup: yes
           plugin_followup_indepth: yes
+          plugin_followup_sections: user
