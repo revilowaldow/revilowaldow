@@ -23,27 +23,12 @@ jobs:
           repositories_forks: yes
           config_padding: 6%
           config_timezone: Europe/London
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
-          plugin_achievements_display: compact
           plugin_languages: yes
           plugin_languages_details: percentage, bytes-size
           plugin_lines: yes
           plugin_followup: yes
           plugin_followup_indepth: yes
           plugin_followup_sections: user
-          plugin_notable: yes
-          plugin_notable_indepth: yes
-          plugin_notable_from: all
-          plugin_notable_repositories: yes
-          plugin_notable_types: commit, pull_request, issue
-          plugin_notable_filter: commits.user>1 stars>1 forks>=1 watchers>=1
-          plugin_habits: yes
-          plugin_habits_from: 1000
-          plugin_reactions: yes
-          plugin_reactions_details: percentage
-          plugin_calendar: yes
-          plugin_calendar_limit: 2
           repositories_skipped: enyancc/vscode-ext-color-highlight, flamewave000/dragonflagon-fvtt, League-of-Foundry-Developers/fvtt-module-polyglot, benjaminsampica/benjaminsampica, ironmonk88/monks-little-details, manuelVo/foundryvtt-drag-ruler, kandashi/Next-Up, ctcuff/vscode-font-preview, ironmonk88/enhanced-terrain-layer, fantasycalendar/FoundryVTT-ItemPiles, Zzarek/FoundryHotSeatObserver, Pharonix/Roll20-Dark-Theme, Git-GoR/5e-homebrew-snippets, arcanistzed/pdf-sheet, BlitzKraig/fvtt-SocketSettings, hktrpg/foundryVTT_game_time_clock
       - name: Right
         uses: lowlighter/metrics@latest
@@ -53,6 +38,7 @@ jobs:
           filename: metrics.right.svg
           user: revilowaldow
           commits_authoring: ${{ secrets.EMAIL }}
+          base: ""
           repositories_forks: yes
           config_padding: 6%
           config_timezone: Europe/London
@@ -75,6 +61,7 @@ jobs:
           filename: metrics.low.svg
           user: revilowaldow
           commits_authoring: ${{ secrets.EMAIL }}
+          base: ""
           repositories_forks: yes
           config_padding: 6%
           config_timezone: Europe/London
