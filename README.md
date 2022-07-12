@@ -2,6 +2,3 @@
     <img width="49%" src="/metrics.core.svg">
     <img width="49%" src="/metrics.right.svg"> 
 </p>
-<p align="center" width="100%">
-    <img width="50%" src="/metrics.low.svg">
-</p>
