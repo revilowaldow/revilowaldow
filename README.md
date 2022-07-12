@@ -1,3 +1,3 @@
 <p align="center" width="100%">
-    <img width="45%" src="/github-metrics.svg"> 
+    <img width="100%" src="/github-metrics.svg"> 
 </p>
