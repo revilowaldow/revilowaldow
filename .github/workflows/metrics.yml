@@ -35,9 +35,10 @@ jobs:
           plugin_notable_from: all
           plugin_notable_repositories: yes
           plugin_notable_types: commit, pull_request, issue
+          plugin_notable_filter: commits.user>1
           plugin_habits: yes
           plugin_habits_from: 1000
           plugin_reactions: yes
           plugin_reactions_details: percentage
           plugin_calendar: yes
-          plugin_calendar_limit: -2
+          plugin_calendar_limit: 2
