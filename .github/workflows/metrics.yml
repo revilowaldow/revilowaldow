@@ -15,7 +15,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: isaec
+          user: revilowaldow
           template: classic
           base: activity, community, repositories, metadata
           config_padding: 6%
@@ -30,6 +30,5 @@ jobs:
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_details: percentage
-          plugin_languages_ignored: html, css
           plugin_languages_threshold: 0%
           plugin_lines: yes
