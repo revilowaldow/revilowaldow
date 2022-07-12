@@ -18,6 +18,8 @@ jobs:
           user: revilowaldow
           template: classic
           base: header, activity, community, repositories, metadata
+          base_indepth: yes
+          commits_authoring: ${{ secrets.EMAIL }}
           repositories_forks: yes
           config_padding: 6%
           config_timezone: Europe/London
