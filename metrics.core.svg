@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    498k added, 270k removed
+                                    32.2k added, 25.4k removed
                                 </div>
                             </section>
                             <section>
@@ -223,12 +223,6 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">revilowaldow/homebrew</span>
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
                             <span class="diff-handle">revilowaldow/5eSchema</span>
                         </div>
                         <div class="field">
@@ -243,17 +237,14 @@
                             </svg>
                             <span class="diff-handle">revilowaldow/5eTools-Language-Server</span>
                         </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <span class="diff-handle">revilowaldow/Hosting</span>
+                        </div>
                     </section>
                     <section>
-                        <div class="field">
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats"><span class="added">  +466k</span> <span class="deleted">  -245k</span></div>
-                            <span> </span>
-                        </div>
                         <div class="field">
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
@@ -279,6 +270,15 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats"><span class="added"> +1.43k</span> <span class="deleted">    -16</span></div>
+                            <span> </span>
+                        </div>
+                        <div class="field">
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-stats"><span class="added">   +905</span> <span class="deleted">     -1</span></div>
                             <span> </span>
                         </div>
                     </section>
@@ -401,14 +401,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="382.5291643018922" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="382.5291643018922" y="0" width="39.13770982065199" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="421.6668741225442" y="0" width="18.07898762468877" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="439.745861747233" y="0" width="17.947853956216385" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="457.69371570344936" y="0" width="1.145415090394418" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="458.83913079384376" y="0" width="0.8690515307045827" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.7081823245483" y="0" width="0.255768848936159" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.9639511734845" y="0" width="0.03604882651546167" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="382.5314783513197" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="382.5314783513197" y="0" width="39.13654077950008" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="421.6680191308198" y="0" width="18.078447606363355" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="439.74646673718314" y="0" width="17.947317854846133" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="457.69378459202926" y="0" width="1.145380876911237" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="458.83916546894045" y="0" width="0.8690255721851093" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.7081910411256" y="0" width="0.2557612091352827" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.96395225026083" y="0" width="0.03604774973907726" height="8" fill="#C1F12E"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1144,7 +1144,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Aug 2022, 10:11:57 (timezone Europe/London) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 29 Aug 2022, 11:12:47 (timezone Europe/London) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
