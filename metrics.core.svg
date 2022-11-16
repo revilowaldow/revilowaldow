@@ -229,7 +229,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">revilowaldow/TheGiddyLimit.github.io</span>
+                            <span class="diff-handle">revilowaldow/5eTools-Language-Server</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -258,9 +258,9 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats"><span class="added"> +1.88k</span> <span class="deleted">   -806</span></div>
+                            <div class="diff-stats"><span class="added"> +1.56k</span> <span class="deleted">    -75</span></div>
                             <span> </span>
                         </div>
                         <div class="field">
@@ -837,7 +837,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 459k out of 355m repositories</span>
+                                    <span class="gh">ranked 460k out of 355m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">54</div>
                                     </div>
@@ -1182,7 +1182,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Nov 2022, 07:10:46 (timezone Europe/London) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 16 Nov 2022, 08:16:11 (timezone Europe/London) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
