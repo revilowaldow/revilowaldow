@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    45m added, 23.6m removed
+                                    46.6m added, 24.4m removed
                                 </div>
                             </section>
                             <section>
@@ -241,7 +241,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">revilowaldow/betterR20</span>
+                            <span class="diff-handle">revilowaldow/Pf2eTools</span>
                         </div>
                     </section>
                     <section>
@@ -278,7 +278,7 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
-                            <div class="diff-stats"><span class="added"> +1.32m</span> <span class="deleted">  -367k</span></div>
+                            <div class="diff-stats"><span class="added"> +1.74m</span> <span class="deleted">  -786k</span></div>
                             <span> </span>
                         </div>
                     </section>
@@ -401,14 +401,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="387.6176843965548" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="387.6176843965548" y="0" width="36.56940126193396" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="424.1870856584888" y="0" width="16.8243642470917" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="441.0114499055805" y="0" width="16.504228614978814" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="457.5156785205593" y="0" width="1.0592898005369806" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="458.57496832109626" y="0" width="0.7991498691673881" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.37411819026363" y="0" width="0.3749285342287921" height="8" fill="#e16737"/>
-                    <rect mask="url(#languages-bar)" x="459.7490467244925" y="0" width="0.250953275507512" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="387.6752365648068" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="387.6752365648068" y="0" width="36.5183520113275" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="424.19358857613435" y="0" width="16.821309274963664" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="441.014897851098" y="0" width="16.501231773156263" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="457.51612962425423" y="0" width="1.059097454438868" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="458.5752270786931" y="0" width="0.7990047593409141" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.374231838034" y="0" width="0.3748604546148909" height="8" fill="#e16737"/>
+                    <rect mask="url(#languages-bar)" x="459.7490922926489" y="0" width="0.2509077073510661" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -421,7 +421,7 @@
                             </div>
                             <small>
                                 <div>13 MB</div>
-                                <div>84.26%</div>
+                                <div>84.28%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -471,7 +471,7 @@
                             </div>
                             <small>
                                 <div>1.23 MB</div>
-                                <div>7.95%</div>
+                                <div>7.94%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -574,7 +574,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="25.833333333333332 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="32.29166666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -593,10 +593,10 @@
                                     <span class="prefix">Super</span>
                                     polyglot
                                     <div class="value-wrapper">
-                                        <div class="value">12</div>
+                                        <div class="value">13</div>
                                     </div>
                                 </div>
-                                <div class="text">Using 12 different programming languages</div>
+                                <div class="text">Using 13 different programming languages</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -1085,7 +1085,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.39m out of 374m repositories</span>
+                                    <span class="gh">ranked 4.29m out of 374m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -1182,7 +1182,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Feb 2023, 18:12:42 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 2 Feb 2023, 19:07:25 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
