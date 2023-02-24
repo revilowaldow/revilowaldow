@@ -241,7 +241,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">revilowaldow/CritterDB</span>
+                            <span class="diff-handle">revilowaldow/roll20-enhancement-suite</span>
                         </div>
                     </section>
                     <section>
@@ -278,7 +278,7 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
-                            <div class="diff-stats"><span class="added">  +142k</span> <span class="deleted"> -39.1k</span></div>
+                            <div class="diff-stats"><span class="added">  +133k</span> <span class="deleted"> -69.1k</span></div>
                             <span> </span>
                         </div>
                     </section>
@@ -1085,7 +1085,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.98m out of 379m repositories</span>
+                                    <span class="gh">ranked 3.83m out of 379m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -1182,7 +1182,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Feb 2023, 21:08:21 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 24 Feb 2023, 22:10:05 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
